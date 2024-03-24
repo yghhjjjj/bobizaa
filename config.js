@@ -12,17 +12,18 @@ global.botnumber = ""
 global.owner = [
   ['201095499866', 'snarco', true],
 
-  ['201095499866','bobiza', true],
+  ['201558482044','herween', true],
   ['201095499866'],
   ['201095499866']
 ];
 
 global.suittag = ['201095499866'];
 global.prems = ['201095499866'];
+global.prems2 = ['201558482044'];
 
-global.packname = 'bobiza bot';
-global.author = 'mahmoud snarco';
-global.wm = 'bobiza';
+global.packname = 'herween bot';
+global.author = '';
+global.wm = 'herween';
 global.titulowm = 'bobiza';
 global.titulowm2 = `bobiza`
 global.igfg = 'bobiza';
@@ -53,7 +54,7 @@ global.mysticbot = 'https://instagram.com/noureddine_ouafy';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
 global.waitttt = '*[ ⏳ ] LOADING...*';
-global.nomorown = '212605784394';
+global.nomorown = '201558482044';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
